@@ -4,12 +4,12 @@
 			{
 				"name": "node",
 				"tag": "10-alpine",
-				"digest": "d85e1779da18fd7ad2fd60529ff1c058eaf4fbaad5898f02fb9cfd5221c4dc1c"
+				"digest": "0a37e83648310b3936a66468488619fff98f1800a749fd4d4fb0022347563835"
 			},
 			{
 				"name": "node",
 				"tag": "10-alpine",
-				"digest": "d85e1779da18fd7ad2fd60529ff1c058eaf4fbaad5898f02fb9cfd5221c4dc1c"
+				"digest": "0a37e83648310b3936a66468488619fff98f1800a749fd4d4fb0022347563835"
 			}
 		]
 	}
